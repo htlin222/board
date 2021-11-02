@@ -1,0 +1,26 @@
+site_name: 蜥蜴內專考古
+theme:
+  name: material
+  language: zh-TW
+  features:
+    - content.code.annotate
+    - content.tabs.link
+    - navigation.tabs
+    - header.autohide
+    - search.suggest
+    - search.highlight
+  icon:
+    admonition:
+      <type>: <icon>
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - footnotes
