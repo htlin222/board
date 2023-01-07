@@ -1,0 +1,1 @@
+{"config":{"lang":["ja"],"separator":"[\\s\\-\u3000\u3001\u3002\uff0c\uff0e\uff1f\uff1b]+","pipeline":["stemmer"]},"docs":[{"location":"","title":"Start","text":"<p>test dir/test2</p>"},{"location":"test/","title":"test","text":"<p>from Star</p> <p>t</p>"},{"location":"dir/test2/","title":"Test2","text":""},{"location":"dir/test2/#test2","title":"test2","text":""}]}
